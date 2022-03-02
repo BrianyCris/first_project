@@ -5,7 +5,7 @@
 
 ### Comandos git
 * status
-    * git status
+    * git status 
 * para adicionar aquivos no github
     * git add .
 * para realizar o commit
